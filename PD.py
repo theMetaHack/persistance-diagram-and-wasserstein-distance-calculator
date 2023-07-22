@@ -4,7 +4,7 @@ from sklearn.neighbors import NearestNeighbors
 from ripser import Rips
 
 # Load the image
-img_file_path = "D:/data/topoFolder/trainingFolder/topoTrain/IMG-0001-00067.jpg"
+img_file_path = "insert your file path"
 image = plt.imread(img_file_path)
 
 # Convert the image to grayscale
